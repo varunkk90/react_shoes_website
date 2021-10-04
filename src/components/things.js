@@ -11,7 +11,7 @@ export default function things(props) {
     return (
 
         <div className="menuItem">
-            
+          
          <img src={props.storage.image} alt="" />
           <h1>{props.storage.brand}</h1>
           <b>{props.storage.name}</b>

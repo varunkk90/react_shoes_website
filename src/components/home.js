@@ -10,13 +10,12 @@ import {
 } from "react-router-dom";
 export default function home() {
     return (
-        <div className="home" style={{
-            background: `url(${shoes})`
-        }}>
+        <div className="home">
             <div className="headerContainer" >
 
                 <h1>50% off  in every shoes</h1>
-
+                <br />
+                <br/>
                 <Link to="/menu">
                     <button> BUY NOW</button>
                 </Link>

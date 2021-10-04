@@ -30,7 +30,8 @@ export default function items(props) {
 
     return (
         <div className="menu">
-         
+         <br />
+         <br />
           <h1 className="menuTitle">Our items</h1>
           <div className="menuList">
            {Stock.map((storage,key)=>{
@@ -44,6 +45,14 @@ export default function items(props) {
           <br />
           <br />
           <br />
+             <br />
+          <br />
+          <br />
+             <br />
+          <br />
+          <br />
+            <br />
+         
          </div>
 
         

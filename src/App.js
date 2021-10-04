@@ -15,7 +15,7 @@ import {
 } from "react-router-dom";
 export default function App() {
   return (
-    <div>
+    <div >
       <Router>
           <Navbar />
         <Switch>

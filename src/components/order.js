@@ -9,6 +9,12 @@ export default function order(props) {
     return (
        
     <div className="card">
+         <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
           <h1>please confirm your order </h1>
           <Link to='/'>
           <button className="button_one">Confirm</button>
